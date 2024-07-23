@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshsahu&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshsahu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshsahu" alt="shreyanshsahu" /></a> </p>
-
 - 🌱 I’m currently learning **C++,DSA,ReactJs, MongoDB, ExpressJs,NodeJs**
 
 - 💬 Ask me about **ReactJs, MongoDB, ExpressJs,NodeJs**
